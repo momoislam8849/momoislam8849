@@ -1,7 +1,8 @@
 ### Hi devs 👋
 
-
-
+I am an developer who loves to make open source projects and contribute to build a community. I just love to make new projects using python. Sometimes I do code in Hackerank.
+I also work on projects in machine learning, deep learning and also Natural Language Processing.
+I have a love and hate relationship with programming.
 
 ### Contact Me
 
