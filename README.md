@@ -5,7 +5,7 @@
 ![Pink and Blue Galaxy Gaming YouTube Channel Art](https://user-images.githubusercontent.com/42634933/95649907-095f1b00-0b02-11eb-814c-487045cf30f4.png)
 
 
-I am an developer who loves to make open source projects and contribute to build a community. I just love to make new projects using python. Sometimes I do code in Hackerank.
+I am a developer who loves to make open source projects and contribute to build a community. I just love to make new projects using python. Sometimes I do code in Hackerank.
 I also work on projects in machine learning, deep learning and also Natural Language Processing.
 I have a love and hate relationship with programming.
 
